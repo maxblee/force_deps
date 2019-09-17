@@ -2,4 +2,6 @@ black
 flake8 >= 3.7.0
 pytest >= 5.0.0
 pytest-cov >= 2.6.0
-tox >= 3.7.0
+sphinx
+sphinx-autodoc-typehints
+nox
