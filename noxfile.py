@@ -13,7 +13,7 @@ def basic_test_setup(session, *args):
 def coverage_test(session):
     basic_test_setup(session, *html_report)
 
-@nox.session(python=["3.4", "3.5", "3.6"])
+@nox.session(python="3.6")
 def tests(session):
     basic_test_setup(session, *w_o_report)
 
