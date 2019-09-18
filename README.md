@@ -4,7 +4,7 @@ force-dependencies
 version number: "0.1.0"
 author: Max Lee
 
-[![Build Status](https://travis-ci.org/<github username>/<repo name>.svg?branch=master)](https://travis-ci.org/<github username>/<repo name>) [![Coverage Status](https://coveralls.io/repos/github/<github username>/<repo name>/badge.svg?branch=master)](https://coveralls.io/github/<github username>/<repo name>?branch=master)
+[![Build Status](https://travis-ci.org/maxblee/force_deps.svg?branch=master)](https://travis-ci.org/maxblee/force_deps) [![Coverage Status](https://coveralls.io/repos/github/maxblee/force_deps/badge.svg?branch=master)](https://coveralls.io/github/maxblee/force_deps?branch=master)
 
 Overview
 --------
