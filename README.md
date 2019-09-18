@@ -63,3 +63,5 @@ Or clone the repo:
     $ git clone https://github.com/maxblee/force_deps.git
     $ python setup.py install
 ```
+
+Project template based off [this minimal Python cookiecutter template](https://github.com/wdm0006/cookiecutter-pipproject).
