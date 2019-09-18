@@ -9,6 +9,11 @@ python:
 
 install:
 - pip install pytest
+- pip install pytest-cov
+- pip install coveralls
 
 script:
-- pytest
+- pytest --cov force_deps/ tests/
+
+after_success:
+  - coveralls
