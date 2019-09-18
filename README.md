@@ -50,7 +50,8 @@ Finally, you can combine the decorators together in pretty much any way you plea
 Installation / Usage
 --------------------
 
-This library requires Python>=3.4.
+This library requires Python>=3.5. You should be able to extend its compatibility by removing the dependencies
+on Python's `typing` libraries.
 
 To install use pip:
 
